@@ -1,0 +1,70 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8" />
+    <title>موتور جستجوی ملک اساطیر</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <!-- AsatirApp references -->
+    <link href="css/themes/default/rtl.jquery.mobile-1.4.0.css" rel="stylesheet" />
+    <link href="Content/css/font-awesome.min.css" rel="stylesheet" />
+    <link href="css/index.css" rel="stylesheet" />
+</head>
+<body>
+    <div data-theme="b" data-display="reveal" data-position="left" id="usermenu" data-role="panel">
+        <ul data-role="listview">
+            <li><a href="#myfiles">فایل های من</a></li>
+            <li><a href="#transactions">تراکنش های مالی من</a></li>
+            <li><a href="#information">ویرایش اطلاعات کاربری</a></li>
+        </ul>
+    </div>
+    <div data-role="header" data-position="fixed" data-tap-toggle="false">
+        <a href="#usermenu" class="ui-btn-left ui-alt-icon ui-nodisc-icon ui-btn ui-icon-user ui-btn-icon-notext ui-corner-all" style="width:30px; height:30px; margin: 4px;" data-role="button" role="button">فضای کاربری</a>
+        <a href="#help" class="ui-btn-right ui-alt-icon ui-nodisc-icon ui-btn ui-icon-help ui-btn-icon-notext ui-corner-all" style="width:30px; height:30px; margin: 4px;" data-role="button" role="button">راهنما</a>
+        <h1 id="header">موتور جستجوی ملک اساطیر</h1>
+    </div>
+    
+
+    <div data-role="page" data-title="موتور جستجوی ملک اساطیر" data-next="#p2" id="p1">
+        <div role="main" class="ui-content ipage" page="new" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="ثبت فایل" data-next="#p3" data-prev="#p1" id="p2">
+        <div role="main" class="ui-content ipage" page="fileform" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="درخواست ملک" data-next="#p4" data-prev="#p2" id="p3">
+        <div role="main" class="ui-content ipage" page="requests" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="لیست انتخابی من" data-prev="#p3" id="p4">
+        <div role="main" class="ui-content nocatchpage" page="favorites" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="راهنما" id="help">
+        <div role="main" class="ui-content ipage" page="help" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="فایل های من" id="myfiles">
+        <div role="main" class="ui-content nocatchpage" page="myfiles" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="تراکنش های مالی" id="transactions">
+        <div role="main" class="ui-content nocatchpage" page="transactions" style="padding:0"></div>
+    </div>
+    <div data-role="page" data-title="اطلاعات کاربری" id="information">
+        <div role="main" class="ui-content nocatchpage" page="information" style="padding:0"></div>
+    </div>
+    <div data-role="footer" data-id="fmenu" data-position="fixed" data-tap-toggle="false">
+        <div data-role="navbar" data-grid="c">
+            <ul>
+                <li><a href="#p1" data-transition="fade" data-icon="search" data-iconpos="top" class="ui-nodisc-icon ui-alt-icon">جستجو</a></li>
+                <li><a href="#p2" data-transition="fade" data-icon="plus" data-iconpos="top" class="ui-nodisc-icon ui-alt-icon">ثبت فایل</a></li>
+                <li><a href="#p3" data-transition="fade" data-icon="tag" data-iconpos="top" class="ui-nodisc-icon ui-alt-icon">درخواست ملک</a></li>
+                <li><a href="#p4" data-transition="fade" data-icon="heart" data-iconpos="top" class="ui-nodisc-icon ui-alt-icon">لیست انتخابی</a></li>
+            </ul>
+        </div>
+    </div>
+    <div class="loadtest" style="position:absolute;height:0"></div>
+    <!-- Cordova reference, this is added to your app when it's built. -->
+    <script src="cordova.js"></script>
+    <script src="scripts/platformOverrides.js"></script>
+    <script src="scripts/jquery-2.1.3.min.js"></script>
+    <script src="scripts/rtl.jquery.mobile-1.4.0.js"></script>
+    <script src="scripts/script.js"></script>
+    <script src="scripts/index.js"></script>
+</body>
+</html>

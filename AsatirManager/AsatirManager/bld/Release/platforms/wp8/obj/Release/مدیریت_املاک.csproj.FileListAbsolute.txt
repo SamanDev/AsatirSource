@@ -1,0 +1,14 @@
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\ApplicationIcon.png
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\Background.png
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\radeen.co.AsatirManager.dll
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\radeen.co.AsatirManager.pdb
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\AppManifest.xaml
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\Properties\WMAppManifest.xml
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\Bin\Release\CordovaAppProj_Release_AnyCPU.xap
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\App.g.cs
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\cordovalib\CordovaView.g.cs
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\MainPage.g.cs
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\radeen.co.AsatirManager.g.resources
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\radeen.co.AsatirManager.dll
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\radeen.co.AsatirManager.pdb
+E:\Asatir Mobile App\AsatirManager\AsatirManager\bld\Release\platforms\wp8\obj\Release\XapCacheFile.xml

@@ -1,0 +1,25 @@
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes.dex : \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$1.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$2.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$3.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4$1.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$4.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$1.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$2.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$3.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5$4.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$5.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser$InAppBrowserClient.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowser.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppBrowserDialog.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\inappbrowser\InAppChromeClient.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager$1.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\org\apache\cordova\networkinformation\NetworkManager.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\BuildConfig.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\CordovaApp.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\R$attr.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\R$drawable.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\R$string.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\R$xml.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\classes\radeen\co\AsatirApp\R.class \
+E:\Asatir Mobile App\AsatirMobileApp Project\AsatirApp\bld\Release\platforms\android\ant-build\dexedLibs\classes-5a04930333f0554047dd364f1ce26d4b.jar \
